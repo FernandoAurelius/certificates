@@ -15,37 +15,6 @@ Bem-vindo ao meu repositório de certificados! Aqui estão organizados os cursos
 - **📜 Certificados Extras**
   - Certificados variados, com um modelo padrão para manter a consistência.
 
-## 📝 Modelo de Adição de Certificado
-
-Para cada certificado, utilize o seguinte modelo para adicionar as informações:
-
-### 🎓 [Nome do Curso]
-- **Plataforma**: `[🌐 Google | 💻 Alura | ☁️ AWS | 📘 DIO | 📜 Extra]`
-- **Área de Estudo**: `[Suporte de TI | Front-end | Back-end | UI | DevOps | AWS | Java | Outros]`
-- **Descrição**: Breve descrição do curso e das competências adquiridas.
-- **Data de Conclusão**: `[Mês/Ano]`
-- **Link do Certificado**: `[🔗 URL para o certificado]`
-
-Exemplo:
-
-### 🎓 Google IT Support Professional Certificate
-- **Plataforma**: 🌐 Google
-- **Área de Estudo**: Suporte de TI
-- **Descrição**: Certificado profissional focado nas bases de suporte de TI, incluindo troubleshooting, redes, segurança e atendimento ao cliente.
-- **Data de Conclusão**: 08/2023
-- **Link do Certificado**: [🔗 Certificado](https://link_para_o_certificado)
-
----
-
-### 🎨 [Nome do Curso da Alura - Front-end]
-- **Plataforma**: 💻 Alura
-- **Área de Estudo**: Front-end
-- **Descrição**: Curso focado em desenvolvimento web usando HTML, CSS e JavaScript, cobrindo conceitos de design responsivo e acessibilidade.
-- **Data de Conclusão**: `[Mês/Ano]`
-- **Link do Certificado**: `[🔗 URL para o certificado]`
-
----
-
 ## 🎯 Objetivo do Repositório
 
 Este repositório foi criado para facilitar a visualização do meu progresso educacional e profissional. É uma forma de documentar meu aprendizado, mostrando as competências adquiridas em cada área de estudo. Sinta-se à vontade para navegar pelos certificados e aprender mais sobre cada curso concluído.
