@@ -44,5 +44,5 @@ Nesta formação, desenvolvi o conhecimento necessário para a certificação **
 
 ## 🥇 Conquista Alcançada!  
 **Eu consegui!** 🎉 Fui certificado como **AWS Certified Cloud Practitioner** e este marco representa uma grande realização na minha jornada na nuvem.  
-- 🌐 **Badge da Certificação:** [Veja a badge oficial aqui.](https://www.credly.com/badges/e2426424-6c63-4855-b518-bc2494e5fcd6/public_url)  
+- 🥇 **Badge da Certificação:** [Veja a badge oficial aqui.](https://www.credly.com/badges/e2426424-6c63-4855-b518-bc2494e5fcd6/public_url)  
 - 🧑‍💻 Foi incrível explorar os serviços da AWS e consolidar meus conhecimentos. Estou animado para continuar crescendo na área!  
