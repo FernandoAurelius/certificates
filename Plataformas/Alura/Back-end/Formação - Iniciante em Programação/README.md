@@ -1,5 +1,6 @@
 # 🖥️ Formação - A partir do Zero: Iniciante em Programação  
-> **Plataforma:** [Alura](https://www.alura.com.br)  
+> **Plataforma:** [Alura](https://www.alura.com.br)   
+> **[🔗 Certificado de Conclusão](https://cursos.alura.com.br/degree/certificate/c76c0319-3324-440b-be65-353d2b5207a9?lang=pt_BR)**  
 > **Carga Horária Total:** 31h  
 > **Descrição:**  
 Esta formação é um ponto de partida ideal para quem deseja entrar no universo da programação. Você aprenderá lógica de programação, fundamentos de desenvolvimento de software e tecnologias populares como **HTML**, **CSS** e **JavaScript**, além de manusear ferramentas de versionamento de código como o **Git** e plataformas como o **GitHub**. Com projetos práticos e uma abordagem didática, esta formação é adequada tanto para iniciantes quanto para profissionais de outras áreas que desejam compreender melhor a área de desenvolvimento.  
