@@ -21,6 +21,27 @@ Este repositório foi criado para facilitar a visualização do meu progresso ed
 
 ---
 
+## 🫂 Apresentação Pessoal
+
+Desde criança, tenho o sonho de alcançar novos horizontes. Comecei a escrever meus próprios jogos e aplicativos em um simples caderno escolar, e desde então meu objetivo sempre foi claro: me tornar um desenvolvedor.
+
+Hoje, gosto de me considerar um criador. De soluções simples a sistemas mais robustos, minha paixão é resolver problemas, seja para outras pessoas ou problemas que eu mesmo proponho. Isso me motiva a buscar sempre mais.
+
+Experiência:
+Tenho 2 anos de experiência como desenvolvedor freelance, com projetos que envolvem uma variedade de tecnologias, incluindo Django, Python, Java, Spring Boot, HTML5, CSS3, JavaScript (ES6), Bootstrap, e Figma. Uso frequentemente ferramentas auxiliares como Git, GitHub, MySQL, SQLite, PostgreSQL. Também aplico padrões de design como MTV (Model, View, Template), MVC (Model, View, Controller), e sigo boas práticas de Clean Code.
+
+---
+
+Além disso, atualmente trabalho como Assistente de Infraestrutura numa empresa de T.I voltada para a área de Registro de Contratos, onde pratico habilidades de resolução de problemas, desenvolvo soft-skills de comunicação interpessoal e adquiro experiências com HelpDesk, AWS Cloud, SysAdmin, Microsoft Admin Center, Microsoft Azure AD e outras atividades da área de Suporte de T.I
+
+Faço curso técnico em Informática para Internet para aprimorar minhas habilidades.
+
+GitHub:
+Você pode ver alguns dos meus projetos no GitHub: https://github.com/FernandoAurelius
+
+Portfolio digital:
+Você pode ver alguns dos meus projetos na web no meu portfolio: https://floresdev.com.br
+
 ## 📚 Certificados
 
 Aqui está a lista organizada de certificados:
