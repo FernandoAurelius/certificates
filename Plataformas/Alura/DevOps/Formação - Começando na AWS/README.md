@@ -2,6 +2,7 @@
 
 > **Descubra as principais soluções de computação em nuvem da AWS!**  
 Nesta formação, aprendi a usar os principais serviços da **Amazon Web Services (AWS)** para criar aplicações com agilidade, escalabilidade e simplicidade. Este repositório organiza os certificados e conhecimentos adquiridos durante os cursos que compõem a formação.  
+> **[🔗 Certificado de Conclusão](https://cursos.alura.com.br/degree/certificate/5a440b9f-4260-4595-af72-ff0e647c6d32?lang=pt_BR)**   
 
 ---
 
@@ -15,7 +16,7 @@ Nesta formação, aprendi a usar os principais serviços da **Amazon Web Service
 ## 📂 Cursos da Formação  
 
 ### 1️⃣ **Amazon Lightsail: descomplicando a nuvem**  
-**Certificado:** [🔗 PDF](./Miguel%20Fernando%20Flores%20Barreto%20-%20Curso%20Amazon%20Lightsail_%20descomplicando%20a%20nuvem%20-%20Alura.pdf)  
+**Certificado:** [🔗 PDF](https://cursos.alura.com.br/certificate/ed4a8ced-c3e0-4c8a-82e3-85adf35aad48?lang=pt_BR)  
 **Carga Horária:** 8h  
 **Descrição:**  
 - 🌐 Entenda como provisionar web apps e instâncias de forma simples.  
@@ -26,7 +27,7 @@ Nesta formação, aprendi a usar os principais serviços da **Amazon Web Service
 ---
 
 ### 2️⃣ **Amazon EC2: alta disponibilidade e escalabilidade em uma aplicação**  
-**Certificado:** [🔗 PDF](./Miguel%20Fernando%20Flores%20Barreto%20-%20Curso%20Amazon%20EC2_%20alta%20disponibilidade%20e%20escalabilidade%20em%20uma%20aplicação%20-%20Alura.pdf)  
+**Certificado:** [🔗 PDF](https://cursos.alura.com.br/certificate/f4378b95-dd53-4929-82f8-424a8f297fa0?lang=pt_BR)  
 **Carga Horária:** 8h  
 **Descrição:**  
 - ⚙️ Aprenda a criar máquinas virtuais (instâncias EC2) rapidamente.  
@@ -37,7 +38,7 @@ Nesta formação, aprendi a usar os principais serviços da **Amazon Web Service
 ---
 
 ### 3️⃣ **Amazon VPC: configurando redes na AWS**  
-**Certificado:** [🔗 PDF](./Miguel%20Fernando%20Flores%20Barreto%20-%20Curso%20Amazon%20VPC_%20configurando%20redes%20na%20AWS%20-%20Alura.pdf)  
+**Certificado:** [🔗 PDF](https://cursos.alura.com.br/certificate/74a5a189-d543-490b-810c-26c967bbca75?lang=pt_BR)  
 **Carga Horária:** 8h  
 **Descrição:**  
 - 🌐 Crie redes virtuais privadas (VPC) na AWS.  
@@ -47,7 +48,7 @@ Nesta formação, aprendi a usar os principais serviços da **Amazon Web Service
 ---
 
 ### 4️⃣ **Amazon S3: manipule e armazene objetos na nuvem**  
-**Certificado:** [🔗 PDF](./Miguel%20Fernando%20Flores%20Barreto%20-%20Curso%20Amazon%20S3_%20manipule%20e%20armazene%20objetos%20na%20nuvem%20-%20Alura.pdf)  
+**Certificado:** [🔗 PDF](https://cursos.alura.com.br/certificate/a11f9666-742e-41a1-a363-83bd4e2fb576?lang=pt_BR)  
 **Carga Horária:** 8h  
 **Descrição:**  
 - 📦 Armazene objetos na nuvem com classes de armazenamento eficientes.  
@@ -57,7 +58,7 @@ Nesta formação, aprendi a usar os principais serviços da **Amazon Web Service
 ---
 
 ### 5️⃣ **Banco de dados na AWS: gerencie RDS e DynamoDB**  
-**Certificado:** [🔗 PDF](./Miguel%20Fernando%20Flores%20Barreto%20-%20Curso%20Banco%20de%20dados%20na%20AWS_%20gerencie%20RDS%20e%20DynamoDB%20-%20Alura.pdf)  
+**Certificado:** [🔗 PDF](https://cursos.alura.com.br/certificate/836959ec-de7b-4292-962d-2e30648faf69?lang=pt_BR)  
 **Carga Horária:** 8h  
 **Descrição:**  
 - 🗄️ Configure bancos relacionais com RDS e DynamoDB.  
@@ -67,7 +68,7 @@ Nesta formação, aprendi a usar os principais serviços da **Amazon Web Service
 ---
 
 ### 6️⃣ **AWS: entendendo e controlando os custos dos serviços**  
-**Certificado:** [🔗 PDF](./Miguel%20Fernando%20Flores%20Barreto%20-%20Curso%20AWS_%20entendendo%20e%20controlando%20os%20custos%20dos%20serviços%20-%20Alura.pdf)  
+**Certificado:** [🔗 PDF](https://cursos.alura.com.br/certificate/c06cb2dc-63a1-4cee-96f3-27b3808c1a31?lang=pt_BR)  
 **Carga Horária:** 6h  
 **Descrição:**  
 - 💸 Entenda o modelo de precificação da AWS.  
