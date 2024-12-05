@@ -21,8 +21,9 @@ Atualmente, estou me aprofundando nas seguintes áreas:
 
 Abaixo, segue a árvore de diretórios completa, que reflete a organização dos meus certificados por plataforma e áreas de estudo:
 
-```plaintext
-C:/
+```shell
+$ tree
+C:\
 └───Plataformas e Tópicos de Estudo
     ├───Alura - Estudos voltados para Back-end com Java e Python, Front-end com HTML e CSS, cursos de UI e DevOps com AWS e Git.
     │   ├───Back-end
