@@ -71,4 +71,6 @@ Após completar todos os cursos e a avaliação, você pode ganhar o **AWS Knowl
 
 ---
 
-> Este Learning Path é uma excelente maneira de começar sua jornada na AWS e entender os conceitos fundamentais da computação em nuvem e seus serviços, antes de avançar para certificações mais específicas.
+> Este Learning Path é uma excelente maneira de começar sua jornada na AWS e entender os conceitos fundamentais da computação em nuvem e seus serviços, antes de avançar para certificações mais específicas.  
+
+**Última atualização e emissão da badge:** 6 de agosto de 2024.

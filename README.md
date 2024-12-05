@@ -42,44 +42,6 @@ Você pode ver alguns dos meus projetos no GitHub: https://github.com/FernandoAu
 Portfolio digital:
 Você pode ver alguns dos meus projetos na web no meu portfolio: https://floresdev.com.br
 
-## 📚 Certificados
-
-Aqui está a lista organizada de certificados:
-
-### 🌐 Google
-1. **Google IT Support Professional Certificate**
-   - **Data de Conclusão**: 08/2023
-   - [🔗 Certificado](https://link_para_o_certificado)
-
-### 💻 Alura
-#### 🎨 Front-end
-1. **Curso de HTML e CSS**
-   - **Data de Conclusão**: 07/2023
-   - [🔗 Certificado](https://link_para_o_certificado)
-
-#### 🖥️ Back-end
-1. **Curso de Java**
-   - **Data de Conclusão**: 06/2023
-   - [🔗 Certificado](https://link_para_o_certificado)
-
-...
-
-### ☁️ AWS
-1. **Learning Path: Cloud Practitioner Essentials**
-   - **Data de Conclusão**: 05/2023
-   - [🔗 Certificado](https://link_para_o_certificado)
-
-### 📘 DIO
-1. **Bootcamp Java + Claro (Coding The Future)**
-   - **Data de Conclusão**: 04/2023
-   - [🔗 Certificado](https://link_para_o_certificado)
-
-### 📜 Certificados Extras
-1. **[Nome do Certificado Extra]**
-   - **Descrição**: Breve descrição do curso.
-   - **Data de Conclusão**: `[Mês/Ano]`
-   - [🔗 Certificado](https://link_para_o_certificado)
-
----
+## Agradecimentos
 
 Espero que este repositório seja uma forma clara e prática de visualizar meu desenvolvimento e aprendizagem contínua. Obrigado por visitar! 😄

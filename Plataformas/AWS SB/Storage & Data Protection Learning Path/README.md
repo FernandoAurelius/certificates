@@ -131,4 +131,6 @@
 
 Após completar todos os cursos e a avaliação, você pode ganhar o **AWS Knowledge Badge**, que valida sua compreensão dos conceitos abordados neste Learning Path. Para ganhar o badge, é necessário obter uma pontuação de 80% ou mais na avaliação final.
 
-[Veja minha badge de conclusão aqui!](https://www.credly.com/badges/03e6c011-6963-4217-8b48-4ad76127560d/public_url)
+[Veja minha badge de conclusão aqui!](https://www.credly.com/badges/03e6c011-6963-4217-8b48-4ad76127560d/public_url)  
+
+**Última atualização e emissão da badge:** 25 de outubro de 2024.

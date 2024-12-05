@@ -107,4 +107,6 @@ Este repositório contém uma coleção dos cursos de computação oferecidos pe
 ---
 
 **Certificação Completa e Link para a Badge:**  
-[🎉 Confira minha Badge AWS Compute aqui!](https://www.credly.com/badges/72d841d4-c741-441f-bbb4-a74ddd1795d0/public_url)
+[🎉 Confira minha Badge AWS Compute aqui!](https://www.credly.com/badges/72d841d4-c741-441f-bbb4-a74ddd1795d0/public_url)  
+
+**Última atualização e emissão da badge:** 12 de outubro de 2024.
