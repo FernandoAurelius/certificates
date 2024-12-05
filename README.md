@@ -1,47 +1,80 @@
-# 🏆 Repositório de Certificados
+## 🎓 **Certificados de Cursos e Habilidades**
 
-Bem-vindo ao meu repositório de certificados! Aqui estão organizados os cursos e certificações que concluí ao longo do meu desenvolvimento profissional e acadêmico. Esta lista está dividida por plataforma e área de estudo, permitindo uma navegação fácil e organizada.
-
-## 📂 Estrutura
-
-- **🌐 Google**
-  - Programa de Suporte de TI do Google Professional Certificate.
-- **💻 Alura**
-  - Certificados organizados por áreas: Front-end, Back-end, UI e DevOps (AWS).
-- **☁️ AWS**
-  - Certificações realizadas nos learning paths do AWS Skill Builder.
-- **📘 DIO**
-  - Certificações do Bootcamp Java + Claro (Coding The Future).
-- **📜 Certificados Extras**
-  - Certificados variados, com um modelo padrão para manter a consistência.
-
-## 🎯 Objetivo do Repositório
-
-Este repositório foi criado para facilitar a visualização do meu progresso educacional e profissional. É uma forma de documentar meu aprendizado, mostrando as competências adquiridas em cada área de estudo. Sinta-se à vontade para navegar pelos certificados e aprender mais sobre cada curso concluído.
+Bem-vindo ao meu repositório de certificados! Aqui você encontrará uma coleção organizada de certificados conquistados ao longo da minha jornada de aprendizado em **tecnologia e desenvolvimento de software**. Meu foco é construir uma base sólida como **Desenvolvedor Full-Stack**, com especializações em **front-end**, **back-end**, **cloud computing** e, futuramente, **inteligência artificial**.
 
 ---
 
-## 🫂 Apresentação Pessoal
+### 🚀 **Habilidades em Desenvolvimento e Tecnologias**
 
-Desde criança, tenho o sonho de alcançar novos horizontes. Comecei a escrever meus próprios jogos e aplicativos em um simples caderno escolar, e desde então meu objetivo sempre foi claro: me tornar um desenvolvedor.
+Atualmente, estou me aprofundando nas seguintes áreas:
 
-Hoje, gosto de me considerar um criador. De soluções simples a sistemas mais robustos, minha paixão é resolver problemas, seja para outras pessoas ou problemas que eu mesmo proponho. Isso me motiva a buscar sempre mais.
-
-Experiência:
-Tenho 2 anos de experiência como desenvolvedor freelance, com projetos que envolvem uma variedade de tecnologias, incluindo Django, Python, Java, Spring Boot, HTML5, CSS3, JavaScript (ES6), Bootstrap, e Figma. Uso frequentemente ferramentas auxiliares como Git, GitHub, MySQL, SQLite, PostgreSQL. Também aplico padrões de design como MTV (Model, View, Template), MVC (Model, View, Controller), e sigo boas práticas de Clean Code.
+- **Front-End**: HTML, CSS, JavaScript, UI Design e frameworks como React.
+- **Back-End**: Java, Spring Boot, Python (Django), e bancos de dados SQL/NoSQL.
+- **Cloud Computing**: AWS (Certificado Cloud Practitioner), gerenciamento de infraestrutura e práticas de DevOps.
+- **Ferramentas de Colaboração**: Git, GitHub, controle de versões.
+- **Testes de Software**: JUnit, Mockito e outras ferramentas de QA.
+- **Suporte e Infraestrutura de TI**: Redes, sistemas operacionais e fundamentos do suporte técnico.
 
 ---
 
-Além disso, atualmente trabalho como Assistente de Infraestrutura numa empresa de T.I voltada para a área de Registro de Contratos, onde pratico habilidades de resolução de problemas, desenvolvo soft-skills de comunicação interpessoal e adquiro experiências com HelpDesk, AWS Cloud, SysAdmin, Microsoft Admin Center, Microsoft Azure AD e outras atividades da área de Suporte de T.I
+### 🗂️ **Estrutura do Repositório**
 
-Faço curso técnico em Informática para Internet para aprimorar minhas habilidades.
+Abaixo, segue a árvore de diretórios completa, que reflete a organização dos meus certificados por plataforma e áreas de estudo:
 
-GitHub:
-Você pode ver alguns dos meus projetos no GitHub: https://github.com/FernandoAurelius
+```plaintext
+C:/
+└───Plataformas e Tópicos de Estudo
+    ├───Alura - Estudos voltados para Back-end com Java e Python, Front-end com HTML e CSS, cursos de UI e DevOps com AWS e Git.
+    │   ├───Back-end
+    │   │   ├───Formação - Aprenda a programar em Java
+    │   │   ├───Formação - Aprenda a programar em Python
+    │   │   ├───Formação - Django crie aplicações em Python
+    │   │   ├───Formação - Iniciante em Programação
+    │   │   └───Formação - Java Web e Spring Boot
+    │   ├───DevOps
+    │   │   ├───Formação - Certificação AWS CCP
+    │   │   ├───Formação - Começando na AWS
+    │   │   └───Git e GitHub
+    │   ├───Front-end
+    │   │   └───Formação HTML-CSS
+    │   └───UI
+    ├───AWS SB - Aprendizado sobre Computação em Nuvem, Armazenamento, Backup, Redes Virtuais e Práticas de Disaster Recovery.
+    │   ├───Cloud Essentials Learning Path
+    │   ├───Compute Learning Path
+    │   ├───File Storage Learning Path
+    │   └───Storage & Data Protection Learning Path
+    ├───DIO - Bootcamp em Java com Spring Boot, APIs REST, e projetos práticos em Back-end.
+    │   ├───Bancos de Dados SQL e NoSQL para Back-end
+    │   ├───Introdução ao Ambiente Java
+    │   ├───Produtividade com Java + Spring Framework
+    │   ├───Programação Orientada a Objetos com Java
+    │   ├───Sintaxe Básica com Java
+    │   └───Testes e Gerenciamento de Dependências em Projetos Java
+    ├───Google (Suporte de TI) - Certificação Profissional de Suporte em TI: Redes, Segurança e Administração de Sistemas.
+    ├───Udemy - Cursos variados em produtividade e Java
+    └───Extras - Estudo variado sobre algoritmos e ferramentas do Pacote Office.
+```
 
-Portfolio digital:
-Você pode ver alguns dos meus projetos na web no meu portfolio: https://floresdev.com.br
+---
 
-## Agradecimentos
+### 📚 **Leia-me de Subpastas**
 
-Espero que este repositório seja uma forma clara e prática de visualizar meu desenvolvimento e aprendizagem contínua. Obrigado por visitar! 😄
+Cada subpasta possui seu próprio README, contendo:
+
+- Listagem detalhada de certificados com **nome do curso**, **plataforma**, **carga horária** e **link para o certificado**.
+- Descrição dos tópicos abordados nos cursos.
+- Estruturação visual com emojis para facilitar a navegação.
+
+Você pode navegar pelas subpastas para explorar os certificados em mais detalhes.
+
+---
+
+### 🏆 **Conquistas Recentes**
+
+- **Certificação AWS Cloud Practitioner (CCP)** 🟢Veja a badge oficial: [Certificado CCP](https://www.credly.com/badges/e2426424-6c63-4855-b518-bc2494e5fcd6/public_url)
+
+---
+
+### 🤝 **Contribuições e Conexões**
+
+Caso tenha interesse em discutir ideias, colaborar em projetos ou simplesmente trocar experiências, sinta-se à vontade para me contatar! Este repositório é um reflexo da minha evolução contínua como profissional em tecnologia.
