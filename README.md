@@ -1,6 +1,7 @@
 ## 🎓 **Certificados de Cursos e Habilidades**
 
-Bem-vindo ao meu repositório de certificados! Aqui você encontrará uma coleção organizada de certificados conquistados ao longo da minha jornada de aprendizado em **tecnologia e desenvolvimento de software**. Meu foco é construir uma base sólida como **Desenvolvedor Full-Stack**, com especializações em **front-end**, **back-end**, **cloud computing** e, futuramente, **inteligência artificial**.
+Bem-vindo ao meu repositório de certificados! Aqui você encontrará uma coleção organizada de certificados conquistados ao longo da minha jornada de aprendizado em **tecnologia e desenvolvimento de software**. Meu foco é construir uma base sólida como **Desenvolvedor Full-Stack**, com especializações em **front-end**, **back-end**, **cloud computing** e, futuramente, **inteligência artificial**. 
+ 
 No total, tenho orgulho de dizer que atualmente possuo mais de **120** certificados atualmente, além de ser AWS Certified 1x e Google Certified 1x, com ainda mais vindo no futuro. 🫂👊🏻🎉
 
 ---
