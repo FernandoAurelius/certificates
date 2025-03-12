@@ -10,7 +10,7 @@ No total, tenho orgulho de dizer que atualmente possuo mais de **120** certifica
 
 Atualmente, estou me aprofundando nas seguintes áreas:
 
-- **Front-End**: HTML, CSS, JavaScript, UI Design e frameworks como React.
+- **Front-End**: HTML, CSS, JavaScript, UI Design e Vue.js.
 - **Back-End**: Java, Spring Boot, Python (Django), e bancos de dados SQL/NoSQL.
 - **Cloud Computing**: AWS (Certificado Cloud Practitioner), gerenciamento de infraestrutura e práticas de DevOps.
 - **Ferramentas de Colaboração**: Git, GitHub, controle de versões.

@@ -75,5 +75,5 @@ Descubra como criar uma API REST com Spring Boot para fornecer dados a uma aplic
 
 📄 **Certificados Incluídos:**  
 - [📜 Java: Trabalhando com Lambdas, Streams e Spring Framework](https://cursos.alura.com.br/certificate/45f3af94-a397-4930-b348-467a125db234?lang=pt_BR) ✅  
-- [📜 Java: Persistência de Dados e Consultas com Spring Data JPA](link_para_certificado_em_breve) ⏳  
+- [📜 Java: Persistência de Dados e Consultas com Spring Data JPA](https://cursos.alura.com.br/certificate/e5ec5b07-433f-4413-ab6f-3ee46d57bce1?lang=pt_BR) ✅ 
 - [📜 Java: Criando sua Primeira API e Conectando ao Front](link_para_certificado_em_breve) 🕒  
